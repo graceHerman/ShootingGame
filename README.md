@@ -1,4 +1,4 @@
-**Bullet Time**
+**Wild Animals**
 
 Multiple examples of how to implement gallery shooter style bullet shooting in Phaser 3
 without using Arcade Physics.
