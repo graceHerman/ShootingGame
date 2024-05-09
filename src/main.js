@@ -24,7 +24,7 @@ let config = {
     width: 900,     // 800
     height: 700,    // 600
     //scene: [SingleBullet, ArrayBullet, FixedArrayBullet, GroupBullet, ClassBullet, ArrayBoom]
-    scene: [Level1, Start, Level2, End, GameOver, Controls, LevelComplete]
+    scene: [Start, Level1, Level2, End, GameOver, Controls, LevelComplete]
 }
 
 
