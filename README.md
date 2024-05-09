@@ -1,7 +1,6 @@
 **Wild Animals**
 
-Multiple examples of how to implement gallery shooter style bullet shooting in Phaser 3
-without using Arcade Physics.
+A game demosntrating a bullet shooting game in Phaser 3without using Arcade Physics.
 
 Files:
 * Start of the game
@@ -10,7 +9,8 @@ Files:
 * Level complete scene
 * Game Over scene
 * Ending scene
-* Controls and Credits scene
+* Controls showing how to play the game
+* Credits scene 
 * Using a sprite subclass for the player avatar and bullets, also uses group objects
 
 References:
